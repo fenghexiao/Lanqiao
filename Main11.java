@@ -4,7 +4,7 @@ public class Main11 {
         int month =1;
         int day = 1;
 
-        while(year<=3000){
+        while(year<=2100){
 
         int x =year *10000+month*100+day;
         int huiwen =x;
